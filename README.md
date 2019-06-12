@@ -1,2 +1,2 @@
 # datastructures
-Repository of my code from Honors Data Structures (Junior Year)
+Repository of my source code from Honors Data Structures (Junior Year) projects.
